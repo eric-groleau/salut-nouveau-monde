@@ -1,2 +1,1 @@
-# salut-nouveau-monde
-Adaptation de hello-world
+Voir le fichier Lisez-ceci.md. Merci.
